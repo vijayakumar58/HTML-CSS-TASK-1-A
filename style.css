@@ -1,8 +1,10 @@
 @media screen and (min-width:200px){
     
-body{
+.box{
     background-color: greenyellow;
     padding: 30px 20px;
+    border: 2px solid black;
+    margin: 20px 40px;
 }
 .smallbox{
     background-color: lightblue;
